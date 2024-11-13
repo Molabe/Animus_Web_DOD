@@ -1,6 +1,7 @@
 *, body {
     margin: 0;
     padding: 0;
+    overflow: hidden;
 }
 
 .animus-bg-dark-blue {
@@ -15,16 +16,31 @@
     color: #FDDF35;
 }
 
-.animus-card {
-    background-color: rgba(217, 217, 217, 0.6);
-    height: 62.5vh;
-    border-radius: 15px;
-    border-color: #023F78;
-    border-style: solid;
-    border-width: 3px;
-}
-
 .animus-logo {
     width: 24vh;
-    height: fit-content;
+    height: auto;
+}
+
+.animus-card {
+    background-color: rgba(217, 217, 217, 0.6);
+    height: 100%;
+    border-radius: 15px;
+    border: 3px solid #023F78;
+}
+
+.header h2 {
+    color: #023F78;
+    font-weight: bold;
+}
+
+.header h6 {
+    color: #6c757d;
+    font-weight: normal;
+}
+
+.main p {
+    color: #333;
+    font-size: 1rem;
+    line-height: 1.5;
+    margin: 0;
 }
