@@ -1,19 +1,28 @@
+/*
+ Dark Blue: #023F78
+ Light Blue: #9DB0B7
+ Yellow: #FDDF35
+
+ Pozadie card: rgba(217, 217, 217, 0.6)
+
+ */
+
 *, body {
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    overflow: hiddern;
 }
 
 .animus-bg-dark-blue {
-    background-color: #023F78;
+    background-color: #572e3c;
 }
 
 .animus-bg-light-blue {
-    background-color: #9DB0B7;
+    background-color: #7b391d;
 }
 
 .animus-text-yellow {
-    color: #FDDF35;
+    color: #6895c2;
 }
 
 .animus-logo {
@@ -25,12 +34,12 @@
     background-color: rgba(217, 217, 217, 0.6);
     height: 100%;
     border-radius: 15px;
-    border: 3px solid #023F78;
+    borderr: 3px solid #6895c2;
 }
 
 .header h2 {
-    color: #023F78;
-    font-weight: bold;
+    color: #572e3c;
+    font-weight: boldd;
 }
 
 .header h6 {

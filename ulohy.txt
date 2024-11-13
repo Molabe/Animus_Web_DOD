@@ -1,0 +1,34 @@
+HTML:
+
+Ľahké:
+
+Nájdite a opravte nesprávnu cestu k obrázku loga ANIMUS v poslednej karte.
+Pridajte chýbajúce značky </body> a </html> na konci dokumentu.
+Pridajte chýbajúcu uzatváraciu značku </p> v popise odseku karty MRCR.
+Opravte chýbajúcu uzatváraciu značku </h6> v podnadpise karty ANIMUS.
+
+
+Stredne ťažké:
+
+Opravte rozbité rozloženie spôsobené neuzavretými značkami v kartách MRCR a ANIMUS.
+Vyriešte problémy so štýlmi Bootstrap, ktoré ovplyvňujú vzhľad navigačnej lišty a kariet.
+Skontrolujte a opravte nesprávne priradené Bootstrap triedy v rozložení (napr. chýbajúce alebo nesprávne použité triedy).
+Uistite sa, že všetky URL adresy obrázkov sa načítajú správne tým, že overíte správnosť ich ciest.
+
+
+CSS:
+
+Ľahké úlohy:
+
+Opraviť preklep v hodnote vlastnosti overflow.
+Opraviť preklep v vlastnosti font-weight v .header h2
+Opraviť chybu v border v triede .animus-card.
+Opraviť nesprávnu farbu v triede .animus-text-yellow.
+
+
+Stredné úlohy:
+
+Opraviť nesprávnu farbu pozadia v triede .animus-bg-light-blue.
+Opraviť nesprávny farebný kód v triede .animus-bg-light-blue.
+Opraviť nesprávnu farbu v triede .animus-text-yellow.
+Opraviť nesprávne definovanie v triede .animus-logo.
